@@ -107,7 +107,13 @@
 *   目前復用首頁的 Blog Section 元件，作為獨立入口。
 *   未來可擴充為完整的文章列表與內頁系統。
 
-### 3.4 頁尾 (Footer) - `src/components/layout/footer.tsx`
+### 3.4 服務詳情頁 (Service Details) - `src/app/[locale]/services/page.tsx`
+*   **功能**: 展示詳細的服務內容與商業價值。
+*   **設計**: 採用互動式卡片 (Flip Card)，正面強調 Business Value，背面揭露 Technical Strategy。
+*   **內容**: 包含 SEO Dominance, High-Performance Architecture, AI Integration 等 6 大核心服務。
+
+
+### 3.5 頁尾 (Footer) - `src/components/layout/footer.tsx`
 *   **現狀**: 包含版權宣告、隱私權政策 (Privacy Policy)、服務條款 (Terms of Service) 連結。
 *   **待辦事項**: `Privacy Policy` 與 `Terms of Service` 目前連結為空 (`#`)，需要法務提供內容後建立對應頁面。
 
