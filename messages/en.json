@@ -1,0 +1,170 @@
+{
+  "HomePage": {
+    "title": "Dimension Cube",
+    "subtitle": "From Google Page 1 to AI's Standard Answer."
+  },
+  "Navigation": {
+    "services": "Pricing",
+    "methodology": "SEO vs GEO",
+    "blog": "Insights",
+    "contact": "Contact"
+  },
+  "Hero": {
+    "badge": "Knowledge Graph Optimized",
+    "title_prefix": "From Google Page 1",
+    "title_highlight": "To ChatGPT's Answer",
+    "description": "Dimension Cube — Building your brand's traffic moat with dual SEO + GEO engines.",
+    "cta_primary": "Free Audit",
+    "cta_secondary": "View Plans"
+  },
+  "SocialProof": {
+    "label": "Optimized For"
+  },
+  "Why": {
+    "title": "Why You Need a Digital Moat?",
+    "subtitle": "The era of social dividends is over. AI search is here. Are you still renting traffic or building assets?",
+    "toggle_old": "Old Way (Renting)",
+    "toggle_new": "New Strategy (Owning)",
+    "old_card": {
+      "title": "Social Media Ads",
+      "point1": "Rented Traffic: Stops when you stop paying.",
+      "point2": "Declining Reach: Algorithms hold you hostage.",
+      "point3": "Short Lifespan: Content dies in 3 days."
+    },
+    "new_card": {
+      "title": "Official Website",
+      "point1": "Compound Effect: Traffic grows over time (SEO).",
+      "point2": "AI Friendly: Schema lets ChatGPT understand you.",
+      "point3": "Digital Moat: Brand assets no one can take away."
+    }
+  },
+  "Pricing": {
+    "title": "Choose Your Evolution",
+    "subtitle": "Transparent pricing, opaque proprietary technology.",
+    "period": "/ mo",
+    "cta": "Choose Plan",
+    "plans": {
+      "a": {
+        "name": "Plan A",
+        "title": "Digital Foundation (SEO Focused)",
+        "target": "Local Business",
+        "description": "Build the foundation to be seen in search results.",
+        "features": [
+          "Technical SEO Optimization",
+          "Core Web Vitals Tuning",
+          "Keyword Strategy",
+          "Monthly Performance Report"
+        ]
+      },
+      "b": {
+        "name": "Plan B",
+        "title": "AI Authority (GEO Focused)",
+        "target": "Professional / B2B",
+        "description": "Not just Google, get recommended by ChatGPT.",
+        "badge": "Recommended",
+        "features": [
+          "Everything in Plan A",
+          "JSON-LD Schema.org",
+          "Knowledge Graph Construction",
+          "Direct Answer Optimization",
+          "AI Mention Monitoring"
+        ]
+      },
+      "c": {
+        "name": "Plan C",
+        "title": "Domain Dominance (Full Stack)",
+        "target": "Established Enterprise",
+        "description": "Full digital transformation and asset building.",
+        "features": [
+          "Everything in Plan A + B",
+          "Line Bot Automation",
+          "Custom Portal Development",
+          "CRO (Conversion Rate Optimization)",
+          "Dedicated Consultant"
+        ]
+      }
+    }
+  },
+  "FAQ": {
+    "title": "FAQ & Myths",
+    "subtitle": "Everything you need to know about SEO and website building.",
+    "items": [
+      {
+        "question": "Why a website? Isn't IG/FB enough?",
+        "answer": "Social platforms are like renting. The landlord (algorithm) can raise rent or evict you. Owning a website is buying a house; you have full control and asset value compounds over time."
+      },
+      {
+        "question": "Static sites have no interaction?",
+        "answer": "Modern sites aren't static. We use Next.js to make websites feel as fast and fluid as Apps. Speed is money; every millisecond of delay loses customers."
+      },
+      {
+        "question": "What is SEO?",
+        "answer": "SEO is translating your business language into machine language. We let Google understand your value so customers find you first."
+      },
+      {
+        "question": "What is GEO?",
+        "answer": "GEO (Generative Engine Optimization) optimizes for AI like ChatGPT. Future search won't give 10 links, but 1 standard answer. We ensure your brand is that answer."
+      },
+      {
+        "question": "Can't I just use ChatGPT to write content?",
+        "answer": "AI can write words but lacks strategy and structured data. We build the underlying architecture that Google and AI can read, not just pile up text."
+      },
+      {
+        "question": "Will I get traffic immediately?",
+        "answer": "SEO is planting a tree; Ads are buying flowers. Trees take time (3-6 months) but shade you forever; flowers fade in 3 days."
+      }
+    ]
+  },
+  "Contact": {
+    "title": "Start Your Transformation",
+    "subtitle": "Fill out the form for a free preliminary website audit.",
+    "form": {
+      "name": "Your Name",
+      "name_placeholder": "John Doe",
+      "email": "Email",
+      "email_placeholder": "name@company.com",
+      "industry": "Industry",
+      "industry_placeholder": "e.g. Interior Design",
+      "url": "Current Website (Optional)",
+      "url_placeholder": "https://...",
+      "painPoint": "Biggest Marketing Pain Point?",
+      "painPoint_placeholder": "e.g. Low traffic, high ad costs...",
+      "submit": "Submit Inquiry",
+      "submitting": "Submitting..."
+    },
+    "toast": {
+      "success": "Form Submitted!",
+      "description": "We will contact you via Email shortly."
+    }
+  },
+  "Blog": {
+    "title": "Latest Insights",
+    "subtitle": "Cutting-edge digital marketing strategies and tech.",
+    "more": "View More",
+    "posts": [
+      {
+        "title": "2025 SEO Trends: The Rise of SGE",
+        "category": "Insight",
+        "date": "2024-12-01",
+        "excerpt": "When Google starts answering directly, does keyword stuffing still work? Exploring GEO strategies."
+      },
+      {
+        "title": "From IG to Official Site: Why You Need a Digital Moat",
+        "category": "Strategy",
+        "date": "2024-11-20",
+        "excerpt": "Social dividends are gone. Renting traffic is over. Owning first-party data is key to longevity."
+      },
+      {
+        "title": "Using Schema to Capture Google Zero Ranking",
+        "category": "Technical",
+        "date": "2024-11-15",
+        "excerpt": "Writing for machines, not just humans. A step-by-step guide to JSON-LD implementation."
+      }
+    ]
+  },
+  "Footer": {
+    "copyright": "© 2024 Dimension Cube. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}

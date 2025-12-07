@@ -1,0 +1,170 @@
+{
+  "HomePage": {
+    "title": "維度立方科技",
+    "subtitle": "從 Google 搜尋第一頁，到 ChatGPT 的標準答案。"
+  },
+  "Navigation": {
+    "services": "方案",
+    "methodology": "SEO vs GEO",
+    "blog": "洞察報告",
+    "contact": "聯絡我們"
+  },
+  "Hero": {
+    "badge": "Knowledge Graph Optimized",
+    "title_prefix": "從 Google 搜尋第一頁",
+    "title_highlight": "到 ChatGPT 的標準答案",
+    "description": "維度立方科技 —— 為您的品牌打造 SEO + GEO 雙引擎流量護城河。",
+    "cta_primary": "免費網站健檢",
+    "cta_secondary": "查看方案"
+  },
+  "SocialProof": {
+    "label": "Optimized For / 完美適配"
+  },
+  "Why": {
+    "title": "為什麼你需要數位護城河？",
+    "subtitle": "社群紅利已過，AI 搜尋時代來臨。你是要繼續付房租，還是開始蓋大樓？",
+    "toggle_old": "舊思維 (租流量)",
+    "toggle_new": "新策略 (自有資產)",
+    "old_card": {
+      "title": "社群廣告 (Social Media)",
+      "point1": "流量是用「租」的，一停廣告就歸零",
+      "point2": "觸及率逐年下降，演算法綁架",
+      "point3": "內容壽命短，發文三天後沒人看"
+    },
+    "new_card": {
+      "title": "官網資產 (Official Website)",
+      "point1": "複利效應：文章越久流量越高 (SEO)",
+      "point2": "AI 友善：結構化數據讓 ChatGPT 讀懂你",
+      "point3": "數位護城河：建立別人拿不走的品牌資產"
+    }
+  },
+  "Pricing": {
+    "title": "選擇您的進化方案",
+    "subtitle": "透明的價格，不透明的獨家技術。",
+    "period": "/ 月",
+    "cta": "選擇此方案",
+    "plans": {
+      "a": {
+        "name": "方案 A",
+        "title": "基礎數位基建 (SEO Focused)",
+        "target": "剛起步在地店家",
+        "description": "打好地基，讓您的網站在搜尋結果中被看見。",
+        "features": [
+          "Technical SEO 優化",
+          "Core Web Vitals 效能調校",
+          "關鍵字佈局策略",
+          "月度成效報告"
+        ]
+      },
+      "b": {
+        "name": "方案 B",
+        "title": "AI 權威佈局 (GEO Focused)",
+        "target": "專業服務業、B2B",
+        "description": "不僅是 Google，更要讓 ChatGPT 推薦您的品牌。",
+        "badge": "推薦選擇",
+        "features": [
+          "包含方案 A 所有內容",
+          "JSON-LD 結構化數據 (Schema.org)",
+          "Knowledge Graph 知識圖譜建立",
+          "Direct Answer 優化",
+          "AI 搜尋聲量監測"
+        ]
+      },
+      "c": {
+        "name": "方案 C",
+        "title": "全域流量統治 (Full Stack)",
+        "target": "轉型期企業",
+        "description": "全方位數位轉型，建立完整的數位護城河。",
+        "features": [
+          "包含方案 A + B 所有內容",
+          "Line Bot 自動化行銷",
+          "客戶專屬 Portal 開發",
+          "CRO 轉換率優化",
+          "專屬顧問諮詢"
+        ]
+      }
+    }
+  },
+  "FAQ": {
+    "title": "常見問題與迷思",
+    "subtitle": "關於 SEO 與網站建設，您想知道的都在這裡。",
+    "items": [
+      {
+        "question": "為什麼要網站？IG/FB 不好嗎？",
+        "answer": "社群平台就像租房子，房東(演算法)隨時能漲價或趕人。擁有自己的網站是「買房子」，您擁有絕對的控制權，並且隨著時間推移，資產價值會複利成長。"
+      },
+      {
+        "question": "靜態網站沒互動，幹嘛要？",
+        "answer": "現代網站不是靜態的。我們使用 Next.js 技術，讓網站像 App 一樣快速且流暢。速度就是金錢，每一毫秒的延遲都在流失客戶。"
+      },
+      {
+        "question": "SEO 是什麼？",
+        "answer": "SEO 是將您的商業語言翻譯成機器語言。我們讓 Google 讀懂您的服務價值，確保當客戶有需求時，第一個找到的是您。"
+      },
+      {
+        "question": "GEO 是什麼？",
+        "answer": "GEO (Generative Engine Optimization) 是針對 AI (如 ChatGPT, Gemini) 的優化技術。未來的搜尋不再是給十個連結，而是給一個「標準答案」。我們確保您的品牌成為那個答案。"
+      },
+      {
+        "question": "我自己用 ChatGPT 寫文章不行嗎？",
+        "answer": "AI 可以寫字，但不懂「策略」與「結構化數據」。我們做的是讓 Google 和 AI 讀得懂的底層架構，而不只是文字堆砌。"
+      },
+      {
+        "question": "剛做完網站就會有流量嗎？",
+        "answer": "SEO 是種樹，PPC 廣告是買花。種樹需要時間扎根（約 3-6 個月），但長大後你可以乘涼一輩子；買花很美但三天就謝了。"
+      }
+    ]
+  },
+  "Contact": {
+    "title": "開始您的轉型之旅",
+    "subtitle": "填寫表格，獲得免費的初步網站健檢報告。",
+    "form": {
+      "name": "您的稱呼",
+      "name_placeholder": "王小明",
+      "email": "Email",
+      "email_placeholder": "name@company.com",
+      "industry": "產業類別",
+      "industry_placeholder": "例如：室內設計",
+      "url": "現有網站 (選填)",
+      "url_placeholder": "https://...",
+      "painPoint": "目前最大的行銷痛點？",
+      "painPoint_placeholder": "例如：網站流量太少，廣告費太貴...",
+      "submit": "送出諮詢",
+      "submitting": "提交中..."
+    },
+    "toast": {
+      "success": "表單已成功送出！",
+      "description": "我們會盡快透過 Email 聯繫您。"
+    }
+  },
+  "Blog": {
+    "title": "最新洞察報告",
+    "subtitle": "與時俱進的數位行銷策略與技術分享。",
+    "more": "查看更多",
+    "posts": [
+      {
+        "title": "2025 SEO 趨勢報告：AI 搜尋引擎 (SGE) 的崛起",
+        "category": "Insight",
+        "date": "2024-12-01",
+        "excerpt": "當 Google 開始直接回答問題，傳統的關鍵字堆砌還有用嗎？本文深入探討 GEO 的核心策略。"
+      },
+      {
+        "title": "從 IG 到官網：為什麼你的品牌需要「數位護城河」？",
+        "category": "Strategy",
+        "date": "2024-11-20",
+        "excerpt": "社群紅利消退，租用流量的時代結束了。掌握第一方數據，才是品牌長青的關鍵。"
+      },
+      {
+        "title": "如何利用結構化數據 (Schema) 搶佔 Google 零位排名？",
+        "category": "Technical",
+        "date": "2024-11-15",
+        "excerpt": "不只是寫給人看，更要寫給機器看。詳細圖解 JSON-LD 實作步驟。"
+      }
+    ]
+  },
+  "Footer": {
+    "copyright": "© 2024 Dimension Cube. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}
